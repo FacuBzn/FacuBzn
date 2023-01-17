@@ -23,10 +23,23 @@ const FacuBzn = {
 
 ![FacuBzn GitHub stats](https://github-readme-stats.vercel.app/api?username=facubzn&show_icons=true&theme=radical)
 
+
+
+<a href="https://github.com/facubzn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facubzn&layout=compact&theme=buefy&hide_border=true" /></a> 
+
+
  <div align="center"> 
   <a href="https://www.linkedin.com/in/juanfacundobazanalvarez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-    %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   
+   
+   <br /><br />
+   <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  
+<code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 </div>
 
+
+<br />
+<br />
 
 
 
