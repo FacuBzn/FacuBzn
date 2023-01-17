@@ -10,7 +10,7 @@
 
 ```javascript
 const FacuBzn = {
-  pronouns: "she" | "her",
+  pronouns: "He" | "him",
   code: [Javascript, HTML, CSS, Java],
   tools: [React, Node, Jest],
 }
