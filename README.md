@@ -29,12 +29,10 @@ const FacuBzn = {
 }
 ```
 <div align="center"> 
-   <br>
-   <br>
+ <hr>
    
 ## ⚡ Technologies
-   <br>
-   <br>   
+ <hr>  
    
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -47,15 +45,16 @@ const FacuBzn = {
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
    <br>
-   <br> 
-   
-   
-![FacuBzn GitHub stats](https://github-readme-stats.vercel.app/api?username=facubzn&show_icons=true&theme=radical)
 
 
-<a href="https://github.com/facubzn/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facubzn&layout=compact&theme=buefy&hide_border=true" />
-</a>    
+   <hr>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=facubzn&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facubzn&layout=compact)](https://github.com/facubzn/github-readme-stats)
+
+
+<hr>    
+   
    
    <br />
    <br />
