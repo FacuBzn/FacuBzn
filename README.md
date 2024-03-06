@@ -1,12 +1,11 @@
 <p align="center" width="300">
 <h1>¡ Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">! Soy Facu Bazan 👨🏻‍💻 </h1>
-<img align='right' src="https://github.com/FacuBzn/About/blob/main/FacundoBzn.png" width="230">
+
 <p><em>Soy Ing. en Sistemas de Información y Analista en Sistemas, de la <a href="http://www.frt.utn.edu.ar">Facultad Regional Tucumán, Universidad Tecnológica Nacional.</a>
    <img src="https://media.giphy.com/media/1HKaikaFqDt7i/giphy.gif" width="30"></br>
    <h2>Soy <strong>Software Developer </strong> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></h2>
-
-
+<img align='right' src="https://github.com/FacuBzn/About/blob/main/FacundoBzn.png" width="330">
 <p align="center">Este es mi repositorio donde iré subiendo mis progresos en la programacion.<br> Ademas podes seguirme en mi linkedin. <strong>Saludos 👋 </strong></p>
 
  <div align="center"> 
@@ -21,10 +20,11 @@
 const FacuBzn = {
 
   pronouns: "He" | "him",
-  Lenguajes: [Javascript, Java, Node.js, HTML/CSS],
-  Bases de Datos: [SQL, Mongo DB, MySQL, SQL Server],
+  Lenguajes: [Javascript, Node.js, Express.js, Java, Python ],
+  Bases de Datos: [SQL Server, MySQL, PostgreSQL , Mongo DB ],
   Control de Versiones: [Git, Github, Gitlab],
-  APIs y servicios webs: [API REST, POSTMAN, Microservicios, Serverless, Google Cloud],
+  Test: [Jest, Puppeteer ],
+  APIs y servicios webs: [API REST, Docker, Postman, Microservicios, Google Cloud],
   
 }
 ```
