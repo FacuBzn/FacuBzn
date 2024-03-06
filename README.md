@@ -1,7 +1,7 @@
 <p align="center" width="300">
 <h1>¡ Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">! Soy Facu Bazan 👨🏻‍💻 </h1>
 
-<p><em>Soy Ing. en Sistemas de Información y Analista en Sistemas, de la <a href="http://www.frt.utn.edu.ar">Facultad Regional Tucumán, Universidad Tecnológica Nacional.</a>
+<p><em>Soy Ing. en Sistemas de Información y Analista en Sistemas, de la <a href="https://frt.cvg.utn.edu.ar">Facultad Regional Tucumán, Universidad Tecnológica Nacional.</a>
    <img src="https://media.giphy.com/media/1HKaikaFqDt7i/giphy.gif" width="30"></br>
    <h2>Soy <strong>Software Developer </strong> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></h2>
