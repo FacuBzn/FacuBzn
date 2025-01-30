@@ -14,61 +14,73 @@
    </div>
 </div>
 
-### <img src="https://media.giphy.com/media/7JA8CIHsr0IfYPZpOE/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/7JA8CIHsr0IfYPZpOE/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const FacuBzn = {
+  programmingLanguages: [
+    "JavaScript",
+    "TypeScript",
+    "Java",    
+    "SQL",
+  ],
+  frameworksAndLibraries: [
+    "Express.js",
+    "NestJS",
+    "Next.js",
+    "Node.js",
+    "Prisma",
+  ],
+  frontendAndWebDesign: ["HTML", "CSS"],
+  databases: ["SQL Server", "SQLite", "MongoDB", "PostgreSQL", "MySQL"],
+  versionControl: ["Git", "GitHub", "GitLab"],
+  testingTools: ["Jest", "Puppeteer"],
+  apisAndArchitecture: ["API RESTful", "Microservices"],
+  developmentAndDeploymentTools: ["Docker", "Postman", "AWS"],
+};
 
-  pronouns: "He" | "him",
-  Lenguajes: [Javascript, Node.js, Express.js, Java, Python ],
-  Bases de Datos: [SQL Server, MySQL, PostgreSQL , Mongo DB ],
-  Control de Versiones: [Git, Github, Gitlab],
-  Test: [Jest, Puppeteer ],
-  APIs y servicios webs: [API REST, Docker, Postman, Microservicios, Google Cloud],
-  
-}
+console.log(FacuBzn);
 ```
+
 <div align="center"> 
  <hr>
    
 ## ⚡ Technologies
  <hr>  
    
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-black?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/Code-Typescript-black?style=flat&logo=typescript)
+![JAVA](https://img.shields.io/badge/Code-Java-black?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/Code-SQL-black?style=flat&logo=SQL)
+
+![Express](https://img.shields.io/badge/Framework-Express-black?style=flat&logo=Express)
+![NestJS](https://img.shields.io/badge/Framework-NestJS-black?style=flat&logo=NestJS)
+![Node](https://img.shields.io/badge/Framework-Node-black?style=flat&logo=nodedotjs)
+![Prisma](https://img.shields.io/badge/Framework-Prisma-black?style=flat&logo=Prisma)
+
+![MongoDB](https://img.shields.io/badge/databases-MongoDB-black?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/databases-PostgreSQL-black?style=flat-&logo=postgresql)
+![SQLite](https://img.shields.io/badge/databases-SQLite-black?style=flat-&logo=sqlite)
+![MySQL](https://img.shields.io/badge/databases-MySQL-black?style=flat-&logo=mysql)
+![Google Cloud](https://img.shields.io/badge/Cloud-Google%20Cloud-black?style=flat&logo=google-cloud)
+![AWS](https://img.shields.io/badge/Cloud-AmazonWebServices-black?style=flat-&logo=AmazonWebServices)
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-&logo=gitlab)
 
    <br>
-
-
+   
    <hr>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=facubzn&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facubzn&layout=compact)](https://github.com/facubzn/github-readme-stats)
-
 
 <hr>    
    
    
    <br />
    <br />
-   <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  
-   <code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="40" alt="nodejs"           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
-   </div>
+   
 <br />
 <br />
-
-
-
-
-
-
-
-
-
