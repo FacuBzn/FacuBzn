@@ -78,9 +78,3 @@ console.log(FacuBzn);
 
 <hr>    
    
-   
-   <br />
-   <br />
-   
-<br />
-<br />
